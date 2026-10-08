@@ -1,2 +1,2 @@
 # my-first-website
-My first project just to learn how GIt and GitHub work .
+My first project just to learn how Git and GitHub work .
